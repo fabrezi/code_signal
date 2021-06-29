@@ -5,6 +5,8 @@ An agent must have the ecosystem that helps you in your goal. then you work hard
 any language. the first thing to learn is semantics (meaning of terms) and syntax (construct). this is broad as their are many keywords and verstatility of 
 the language structure. then you need to devlop algorithmic thinking. to think like a computer. this requires practice. 
 
+one of the first thing i learned was to convert pseudocode to java. there is level of similarity between languages which allows one to convert to another.
+
 Refernces:
 
 [1] https://norvig.com/21-days.html
