@@ -12,6 +12,13 @@ Further there is an ecosystem that accompanies the Java programming. these are t
 -------------Scala, Struts, Maven, Spring
 -----------Experience with J2EE Framework components such as Servlets, JSP, EJB, JDBC
 
+ok so the fundamentals of computing (if can be boiled down to 3 things) contains the following:
+
+[Assembly]-----------------[Java]----------------------[SQL]
+
+in terms of the courses it be architecture/ programming/ algorithms/ database. when you understand these priniciples then the fundamental evaluation is 
+complete.
+
 
 Refernces:
 
