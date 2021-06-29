@@ -1,4 +1,7 @@
-Hey. so this is the survival period of my life. I must become a programmar or i may die like Hamlet. I liked Peter Norvig [1] article on programming. He states that it takes the 10000 hour priniciple to become really good in this field. Similar to all other fields. Similar idea is porposed by Malcolm Gladwell in his book [2], that the key to success lies in two things: environment and work ethic. An agent must have the ecosystem that helps you in your goal. then you work hard to achieve the goal. j
+Hey. so this is the survival period of my life. I must become a programmar or i may die like Hamlet. I liked Peter Norvig [1] article on programming. 
+He states that it takes the 10000 hour priniciple to become really good in this field. 
+Similar to all other fields. Similar idea is porposed by Malcolm Gladwell in his book [2], that the key to success lies in two things: environment and work ethic. 
+An agent must have the ecosystem that helps you in your goal. then you work hard to achieve the goal. 
 
 Refernces:
 
