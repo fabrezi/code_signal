@@ -7,6 +7,12 @@ the language structure. then you need to devlop algorithmic thinking. to think l
 
 one of the first thing i learned was to convert pseudocode to java. there is level of similarity between languages which allows one to convert to another.
 
+Further there is an ecosystem that accompanies the Java programming. these are the following softwares:
+
+-------------Scala, Struts, Maven, Spring
+-----------Experience with J2EE Framework components such as Servlets, JSP, EJB, JDBC
+
+
 Refernces:
 
 [1] https://norvig.com/21-days.html
