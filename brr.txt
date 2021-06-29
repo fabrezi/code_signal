@@ -19,6 +19,22 @@ ok so the fundamentals of computing (if can be boiled down to 3 things) contains
 in terms of the courses it be architecture/ programming/ algorithms/ database. when you understand these priniciples then the fundamental evaluation is 
 complete.
 
+DETAIL_SYLLABUS:
+
+#Programming: built the ability to think and solve a given problem. this class is treated more as competitive programming.
+     - data types
+     - methods
+     - 
+
+
+#algorithms: more standard way of leanring. it deals with time complexity and data strucutres.
+  - array
+  - link list
+  - stacks/ queues
+  - binary tree
+  - sorting problems
+  - 
+
 
 Refernces:
 
