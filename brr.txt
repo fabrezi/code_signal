@@ -33,7 +33,13 @@ DETAIL_SYLLABUS:
   - stacks/ queues
   - binary tree
   - sorting problems
-  - 
+  
+  
+    ::> If the inside is not good then the outside won't be good either. You are the source of energy. You are the measuring rod. You are the one.
+    
+    ##Terminal is closed  Hashcode
+    
+    
 
 
 Refernces:
